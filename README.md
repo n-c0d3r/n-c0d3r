@@ -2,9 +2,7 @@
 
 
 # Hi! I'm NCoder 💻 #
-I'm a game programmer. I'm interested in making game engine and video game. \
-I have learned game making for 3 years and computer graphics for 1 years.
-
+I'm a game programmer. I'm interested in making game engine and video game.
 
 ## My Projects ##
 + [**ING**](https://github.com/INGTechnologies/ING) **:** my own high performance game engine for Windows.
