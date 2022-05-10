@@ -31,11 +31,11 @@ I'm a game programmer and currently developing game and game engine.\
 <br/>
 
 <a href="https://github.com/N1ghtTeam/NFramework">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=N1ghtTeam&repo=NFramework&theme=swift" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=N1ghtTeam&repo=NFramework&theme=codeSTACKr" />
 </a>
 
 ## Most Used Languages ##
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n-c0d3r&theme=swift)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n-c0d3r&theme=default)
 
 ## GitHub Stats ##
-![NCoder's GitHub stats](https://github-readme-stats.vercel.app/api?username=n-c0d3r&show_icons=true&theme=ncoder)
+![NCoder's GitHub stats](https://github-readme-stats.vercel.app/api?username=n-c0d3r&show_icons=true&theme=default)
