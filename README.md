@@ -12,9 +12,12 @@ I'm a game programmer and currently developing game and game engine.\
 <a href="https://github.com/INGTechnologies/ING">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=INGTechnologies&repo=ING" />
 </a>
-
-+ [**Nide**](https://github.com/n-c0d3r/nide) **:** my own terminal based text editor.
-+ [**NFramework**](https://github.com/N1ghtTeam/NFramework) **:** a javascript framework for website developers, it's used to code both backend and frontend.
+<a href="https://github.com/n-c0d3r/nide">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=n-c0d3r&repo=nide" />
+</a>
+<a href="https://github.com/N1ghtTeam/NFramework">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=N1ghtTeam&repo=NFramework" />
+</a>
 
 ## Knowledge ##
 + Computer Graphics
