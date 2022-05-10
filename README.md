@@ -35,7 +35,7 @@ I'm a game programmer and currently developing game and game engine.\
 </a>
 
 ## Most Used Languages ##
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n-c0d3r&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n-c0d3r&hide=javascript,css,scss,html&theme=tokyonight)
 
 ## GitHub Stats ##
 ![NCoder's GitHub stats](https://github-readme-stats.vercel.app/api?username=n-c0d3r&show_icons=true&theme=ncoder)
