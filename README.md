@@ -15,7 +15,7 @@ I'm a game programmer and currently developing game and game engine.\
 
 ## Projects ##
 <a href="https://github.com/INGTechnologies/ING">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=INGTechnologies&repo=ING&theme=vue" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=INGTechnologies&repo=ING&theme=github_dark" />
 </a>
 
 <br/>
@@ -23,7 +23,7 @@ I'm a game programmer and currently developing game and game engine.\
 <br/>
 
 <a href="https://github.com/n-c0d3r/nide">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=n-c0d3r&repo=nide&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=n-c0d3r&repo=nide&theme=omni" />
 </a>
 
 <br/>
@@ -35,7 +35,7 @@ I'm a game programmer and currently developing game and game engine.\
 </a>
 
 ## Most Used Languages ##
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n-c0d3r&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n-c0d3r&theme=dark)
 
 ## GitHub Stats ##
-![NCoder's GitHub stats](https://github-readme-stats.vercel.app/api?username=n-c0d3r&show_icons=true&theme=default)
+![NCoder's GitHub stats](https://github-readme-stats.vercel.app/api?username=n-c0d3r&show_icons=true&theme=apprentice)
