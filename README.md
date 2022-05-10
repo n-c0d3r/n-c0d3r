@@ -3,7 +3,7 @@
 
 # Hi! I'm NCoder 💻 #
 ![Profile View Counter](https://komarev.com/ghpvc/?username=n-c0d3r) 
-![CPP](https://badgen.net/badge/cpp/17/white)
+![CPP](https://badgen.net/badge/cpp/17/cyan)
 \
 I'm a game programmer and currently developing game and game engine.\
 
