@@ -7,6 +7,11 @@
 \
 I'm a game programmer and currently developing game and game engine.\
 
+## Knowledge ##
++ Computer Graphics
++ Game Development
++ Game Engine Development
++ Web Development
 
 ## Projects ##
 <a href="https://github.com/INGTechnologies/ING">
@@ -28,12 +33,6 @@ I'm a game programmer and currently developing game and game engine.\
 <a href="https://github.com/N1ghtTeam/NFramework">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=N1ghtTeam&repo=NFramework" />
 </a>
-
-## Knowledge ##
-+ Computer Graphics
-+ Game Development
-+ Game Engine Development
-+ Web Development
 
 ## Most Used Languages ##
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n-c0d3r&layout=compact)
