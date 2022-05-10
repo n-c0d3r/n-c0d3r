@@ -2,7 +2,7 @@
 
 
 # Hi! I'm NCoder 💻 #
-![Profile View Counter](https://komarev.com/ghpvc/?username=n-c0d3r)
+![Profile View Counter](https://komarev.com/ghpvc/?username=n-c0d3r) ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url = Paste_Your_GitHub_Repository_Link_Here)
 \
 I'm a game programmer and currently developing game and game engine.\
 
