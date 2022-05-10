@@ -3,6 +3,7 @@
 
 # Hi! I'm NCoder 💻 #
 I'm a game programmer and currently developing game and game engine.
+![Profile View Counter](https://komarev.com/ghpvc/?username=n-c0d3r)
 
 ## Projects ##
 + [**ING**](https://github.com/INGTechnologies/ING) **:** my own high performance game engine for Windows.
@@ -20,6 +21,3 @@ I'm a game programmer and currently developing game and game engine.
 
 ## GitHub Stats ##
 ![NCoder's GitHub Stats](https://github-readme-stats.vercel.app/api?username=n-c0d3r&show_icons=true)
-
-## Profile Views ##
-![Profile View Counter](https://komarev.com/ghpvc/?username=Your_GitHub_Username)
