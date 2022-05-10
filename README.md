@@ -16,7 +16,7 @@ I'm a game programmer and currently developing game and game engine.
 + Web Development
 
 ## Most Languages ##
-![NCoder's Most Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=n-c0d3r&theme=blue-green)
+![NCoder's Most Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=n-c0d3r)
 
 ## GitHub Stats ##
 ![NCoder's GitHub Stats](https://github-readme-stats.vercel.app/api?username=n-c0d3r&show_icons=true)
