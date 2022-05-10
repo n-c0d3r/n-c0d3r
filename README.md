@@ -21,3 +21,6 @@ I'm a game programmer and currently developing game and game engine.
 + Video editing with "Adobe Minecraft"
 + Creating framework or engine
 + Painting
+
+## GitHub Stats ##
+![NCoder's GitHub Stats]([https://github-readme-stats.vercel.app/api?username=n-c0d3r&show_icons=true](https://github-readme-stats.vercel.app/api?username=n-c0d3r&show_icons=true))
