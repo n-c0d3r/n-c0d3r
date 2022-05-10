@@ -11,4 +11,5 @@ I'm a game programmer. I'm interested in making game engine and video game.
 
 ## Knowledge ##
 + **Computer Graphics**
-+ **Game Develop**
++ **Game Development**
++ **Game Engine Development**
