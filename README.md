@@ -13,3 +13,8 @@ I'm a game programmer. I'm interested in making game engine and video game.
 + **Computer Graphics**
 + **Game Development**
 + **Game Engine Development**
+
+## Hobbies ##
++ **Read Science Books**
++ **Play CSGO and Valorant**
++ **Create framework or engine**
