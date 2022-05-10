@@ -16,5 +16,6 @@ I'm a game programmer. I'm interested in making game engine and video game.
 
 ## Hobbies ##
 + **Reading Science Books**
-+ **Coding "CSSGO", "Javalorant"** and **"Adobe Minecraft"**
++ **Coding "CSSGO" and "Javalorant"**
++ **Video editing with "Adobe Minecraft"**
 + **Creating framework or engine**
