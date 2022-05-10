@@ -15,7 +15,7 @@ I'm a game programmer and currently developing game and game engine.\
 
 ## Projects ##
 <a href="https://github.com/INGTechnologies/ING">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=INGTechnologies&repo=ING&theme=react" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=INGTechnologies&repo=ING&theme=vue" />
 </a>
 
 <br/>
@@ -23,7 +23,7 @@ I'm a game programmer and currently developing game and game engine.\
 <br/>
 
 <a href="https://github.com/n-c0d3r/nide">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=n-c0d3r&repo=nide&theme=gotham" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=n-c0d3r&repo=nide&theme=buefy" />
 </a>
 
 <br/>
@@ -31,11 +31,11 @@ I'm a game programmer and currently developing game and game engine.\
 <br/>
 
 <a href="https://github.com/N1ghtTeam/NFramework">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=N1ghtTeam&repo=NFramework&theme=bear" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=N1ghtTeam&repo=NFramework&theme=swift" />
 </a>
 
 ## Most Used Languages ##
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n-c0d3r&hide=javascript,css,scss,html&theme=react)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n-c0d3r&theme=swift)
 
 ## GitHub Stats ##
 ![NCoder's GitHub stats](https://github-readme-stats.vercel.app/api?username=n-c0d3r&show_icons=true&theme=ncoder)
