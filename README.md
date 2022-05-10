@@ -31,7 +31,7 @@ I'm a game programmer and currently developing game and game engine.\
 <br/>
 
 <a href="https://github.com/N1ghtTeam/NFramework">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=N1ghtTeam&repo=NFramework&theme=midnight-purple" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=N1ghtTeam&repo=NFramework&theme=bear" />
 </a>
 
 ## Most Used Languages ##
