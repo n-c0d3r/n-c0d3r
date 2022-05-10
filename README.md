@@ -15,7 +15,7 @@ I'm a game programmer and currently developing game and game engine.\
 
 ## Projects ##
 <a href="https://github.com/INGTechnologies/ING">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=INGTechnologies&repo=ING" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=INGTechnologies&repo=ING&theme=react" />
 </a>
 
 <br/>
