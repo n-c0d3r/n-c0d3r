@@ -23,7 +23,7 @@ I'm a game programmer and currently developing game and game engine.\
 <br/>
 
 <a href="https://github.com/n-c0d3r/nide">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=n-c0d3r&repo=nide" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=n-c0d3r&repo=nide&theme=gotham" />
 </a>
 
 <br/>
@@ -31,7 +31,7 @@ I'm a game programmer and currently developing game and game engine.\
 <br/>
 
 <a href="https://github.com/N1ghtTeam/NFramework">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=N1ghtTeam&repo=NFramework" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=N1ghtTeam&repo=NFramework&theme=midnight-purple" />
 </a>
 
 ## Most Used Languages ##
