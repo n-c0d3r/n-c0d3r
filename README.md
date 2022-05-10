@@ -2,8 +2,10 @@
 
 
 # Hi! I'm NCoder 💻 #
-![Profile View Counter](https://komarev.com/ghpvc/?username=n-c0d3r) 
-![CPP](https://badgen.net/badge/cpp/17/cyan)
+![GameEngine](https://badgen.net/badge/GameEngine/Unity|UE5|ING/cyan)
+![IDE](https://badgen.net/badge/IDE/VS2022|VSCoder/green)
+![CPP](https://badgen.net/badge/cpp/17/yellow)
+![Profile View Counter](https://komarev.com/ghpvc/?username=n-c0d3r&color=red) 
 \
 I'm a game programmer and currently developing game and game engine.\
 
