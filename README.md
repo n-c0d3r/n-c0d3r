@@ -15,12 +15,8 @@ I'm a game programmer and currently developing game and game engine.
 + Game Engine Development
 + Web Development
 
-## Hobbies ##
-+ Reading Science Books
-+ Coding "CSSGO" and "Javalorant"
-+ Video editing with "Adobe Minecraft"
-+ Creating framework or engine
-+ Painting
+## Most Languages ##
+![NCoder's Most Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=n-c0d3r&theme=blue-green)
 
 ## GitHub Stats ##
 ![NCoder's GitHub Stats](https://github-readme-stats.vercel.app/api?username=n-c0d3r&show_icons=true)
