@@ -20,7 +20,7 @@ I'm a game programmer and currently developing game and game engine.\
 + Web Development
 
 ## Most Used Languages ##
-![Mose Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?n-c0d3r=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n-c0d3r&layout=compact)
 
 ## GitHub Stats ##
 ![NCoder's GitHub stats](https://github-readme-stats.vercel.app/api?username=n-c0d3r&show_icons=true&theme=ncoder)
