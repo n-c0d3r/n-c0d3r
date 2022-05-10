@@ -10,13 +10,14 @@ I'm a game programmer and currently developing game and game engine.
 + [**NFramework**](https://github.com/N1ghtTeam/NFramework) **:** a javascript framework for website developers, it's used to code both backend and frontend.
 
 ## Knowledge ##
-+ **Computer Graphics**
-+ **Game Development**
-+ **Game Engine Development**
-+ **Web Development**
++ Computer Graphics
++ Game Development
++ Game Engine Development
++ Web Development
 
 ## Hobbies ##
-+ **Reading Science Books**
-+ **Coding "CSSGO" and "Javalorant"**
-+ **Video editing with "Adobe Minecraft"**
-+ **Creating framework or engine**
++ Reading Science Books
++ Coding "CSSGO" and "Javalorant"
++ Video editing with "Adobe Minecraft"
++ Creating framework or engine
++ Painting
