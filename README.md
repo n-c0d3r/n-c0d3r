@@ -2,7 +2,7 @@
 
 
 # Hi! I'm NCoder 💻 #
-![GameEngine](https://badgen.net/badge/GameEngine/ING | UE5 | Unity/cyan)
+![GameEngine](https://badgen.net/badge/GameEngine/ING|UE5|Unity/cyan)
 ![IDE](https://badgen.net/badge/IDE/VS2022|VSCoder/green)
 ![CPP](https://badgen.net/badge/cpp/17/yellow)
 ![Profile View Counter](https://komarev.com/ghpvc/?username=n-c0d3r&color=red) 
