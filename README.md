@@ -3,8 +3,9 @@
 
 # Hi! I'm NCoder 💻 #
 ![GameEngine](https://badgen.net/badge/GameEngine/ING|UE5|Unity/cyan)
-![IDE](https://badgen.net/badge/IDE/VS2022|VSCoder/green)
-![CPP](https://badgen.net/badge/cpp/17/yellow)
+![IDE](https://badgen.net/badge/IDE/VS2022|VSCode/green)
+![CPP](https://badgen.net/badge/CPP/17/yellow)
+![IDE](https://badgen.net/badge/OS/Windows10/red)
 ![Profile View Counter](https://komarev.com/ghpvc/?username=n-c0d3r&color=red) 
 \
 I'm a game programmer and currently developing game and game engine.\
