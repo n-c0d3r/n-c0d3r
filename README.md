@@ -13,7 +13,7 @@ I'm a game programmer and currently developing game and game engine.\
 ## Knowledge ##
 + Computer Graphics
 + Game Development
-+ Game Engine Development
++ Game Engine Architecture
 + Web Development
 
 ## Projects ##
