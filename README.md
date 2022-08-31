@@ -7,7 +7,7 @@
 ![IDE](https://badgen.net/badge/OS/Windows10/red)
 ![Profile View Counter](https://komarev.com/ghpvc/?username=n-c0d3r&color=red) 
 \
-I'm a game programmer and currently developing game and game engine.\
+I'm a game programmer and currently developing game and game engine.
 
 ## Knowledge ##
 + Computer Graphics
