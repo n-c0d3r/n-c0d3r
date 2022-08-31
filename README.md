@@ -10,10 +10,10 @@
 I'm a game programmer and currently developing game and game engine.
 
 ## Knowledge ##
-+ Computer Graphics
-+ Game Development
 + Game Engine Architecture
-+ Web Development
++ Game Programming, Development
++ Computer Graphics
++ Web Basic
 
 ## Projects ##
 <a href="https://github.com/INGTechnologies/ING">
