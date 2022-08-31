@@ -1,4 +1,4 @@
-<img src="https://ibb.co/X8DDvgN" alt="Artboard-1" border="0" width="100%"/>
+<img src="https://i.ibb.co/gVddBpH/Untitled.png" alt="Artboard-1" border="0" width="100%"/>
 
 
 # Hi! I'm NCoder 💻 #
