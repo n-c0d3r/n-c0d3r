@@ -1,7 +1,6 @@
-<img src="https://i.ibb.co/gVddBpH/Untitled.png" alt="Artboard-1" border="0" width="100%"/>
+<img src="https://i.ibb.co/26PJwNz/Artboard-1.png" alt="Artboard-1" border="0" width="100%"/>
 
 
-# Hi! I'm NCoder 💻 #
 ![GameEngine](https://badgen.net/badge/GameEngine/ING|UE5|Unity/cyan)
 ![IDE](https://badgen.net/badge/IDE/VS2022|VSCode/green)
 ![CPP](https://badgen.net/badge/CPP/17/yellow)
