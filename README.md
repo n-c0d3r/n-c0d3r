@@ -21,11 +21,10 @@ I'm a game programmer and currently developing game and game engine.
 </a>
 
 <br/>
-
 <br/>
 
-<a href="https://github.com/n-c0d3r/nide">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=n-c0d3r&repo=nide&theme=omni" />
+<a href="https://github.com/n-c0d3r/RAL">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=n-c0d3r&repo=RAL&theme=panda" />
 </a>
 
 <br/>
@@ -39,8 +38,8 @@ I'm a game programmer and currently developing game and game engine.
 <br/>
 <br/>
 
-<a href="https://github.com/n-c0d3r/RAL">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=n-c0d3r&repo=RAL&theme=codeSTACKr" />
+<a href="https://github.com/n-c0d3r/nide">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=n-c0d3r&repo=nide&theme=omni" />
 </a>
 
 ## GitHub Stats ##
