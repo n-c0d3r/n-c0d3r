@@ -32,7 +32,7 @@ I'm a game programmer and currently developing game and game engine.
 <br/>
 
 <a href="https://github.com/n-c0d3r/JobSystem">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=c0d3r&repo=JobSystem&theme=gotham" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=n-c0d3r&repo=JobSystem&theme=gotham" />
 </a>
 
 <br/>
