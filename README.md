@@ -7,13 +7,14 @@
 ![IDE](https://badgen.net/badge/OS/Windows10/red)
 ![Profile View Counter](https://komarev.com/ghpvc/?username=n-c0d3r&color=red) 
 \
-I'm a game programmer and currently developing game and game engine.
+I'm a self-taught game engine programmer.
 
 ## Knowledge ##
-+ Game Engine Architecture
-+ Game Development
-+ Computer Graphics
-+ Web Basic
++ Game Engine Programming
++ Game Programming
++ Computer Graphics, Realtime Rendering
++ Math: Calculus, Linear Algebra,...
++ Web Programming
 
 ## Projects ##
 <a href="https://github.com/INGTechnologies/ING">
