@@ -13,6 +13,7 @@ I'm a self-taught game engine programmer.
 + Game Engine Programming
 + Game Programming
 + Computer Graphics, Realtime Rendering
++ CPU, GPU Architecture,...
 + Math: Calculus, Linear Algebra,...
 + Web Programming
 
