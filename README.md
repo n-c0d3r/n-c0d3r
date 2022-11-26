@@ -9,10 +9,8 @@
 ![Profile View Counter](https://komarev.com/ghpvc/?username=n-c0d3r&color=red) 
 \
 
-## Hi There ##
-**I'm a self-taught (90%) game engine programmer.**
-
 ## Basic Info ##
++ **I'm a self-taught (90%) game engine programmer.**
 + Birthday: 14/11/2005
 + Hotline: +84399771917
 + Email: ncoderft3t@outlook.com
