@@ -8,6 +8,8 @@
 ![IDE](https://badgen.net/badge/OS/Windows10|Ubuntu/red)
 ![Profile View Counter](https://komarev.com/ghpvc/?username=n-c0d3r&color=red) 
 \
+
+## Hi There ##
 **I'm a self-taught (90%) game engine programmer.**
 
 ## Basic Info ##
