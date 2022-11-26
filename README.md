@@ -8,7 +8,7 @@
 ![IDE](https://badgen.net/badge/OS/Windows10|Ubuntu/red)
 ![Profile View Counter](https://komarev.com/ghpvc/?username=n-c0d3r&color=red) 
 \
-I'm a self-taught (90%) game engine programmer.
+**I'm a self-taught (90%) game engine programmer.**
 
 ## Basic Info ##
 + Birthday: 14/11/2005
