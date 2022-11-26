@@ -3,7 +3,7 @@
 
 ![GameEngine](https://badgen.net/badge/GameEngine/ING|UE5|Unity/cyan)
 ![IDE](https://badgen.net/badge/IDE/VS2022/green)
-![IDE](https://badgen.net/badge/TextEditor/VSCode/cyan)
+![IDE](https://badgen.net/badge/TextEditor/VSCode/green)
 ![CPP](https://badgen.net/badge/CPP/17/yellow)
 ![IDE](https://badgen.net/badge/OS/Windows10|Ubuntu/red)
 ![Profile View Counter](https://komarev.com/ghpvc/?username=n-c0d3r&color=red) 
