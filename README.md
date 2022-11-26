@@ -8,7 +8,12 @@
 ![IDE](https://badgen.net/badge/OS/Windows10|Ubuntu/red)
 ![Profile View Counter](https://komarev.com/ghpvc/?username=n-c0d3r&color=red) 
 \
-I'm a 17 years old self-taught (90%) game engine programmer.
+I'm a self-taught (90%) game engine programmer.
+
+## Basic Info ##
++ Birthday: 14/11/2005
++ Hotline: +84399771917
++ Email: ncoderft3t@outlook.com
 
 ## Knowledge ##
 + Game Engine Programming
