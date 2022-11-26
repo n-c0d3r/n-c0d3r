@@ -8,7 +8,7 @@
 ![IDE](https://badgen.net/badge/OS/Windows10|Ubuntu/red)
 ![Profile View Counter](https://komarev.com/ghpvc/?username=n-c0d3r&color=red) 
 \
-I'm a 17years old self-taught (90%) game engine programmer.
+I'm a 17 years old self-taught (90%) game engine programmer.
 
 ## Knowledge ##
 + Game Engine Programming
