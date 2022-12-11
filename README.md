@@ -1,5 +1,5 @@
 <img src="https://imgur.com/UMUGe73" border="0" width="100%"/>
-<blockquote class="imgur-embed-pub" lang="en" data-id="UMUGe73"><a href="https://imgur.com/UMUGe73">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+[Imgur](https://imgur.com/UMUGe73)
 
 
 ![GameEngine](https://badgen.net/badge/GameEngine/ING|UE|Unity/cyan)
