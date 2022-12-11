@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/ZWBsDPQ/BG4-wide-0-25x.png" border="0" width="100%"/>
+<img src="https://i.ibb.co/0BxPp24/BG4-wide-0-12x.png" border="0" width="100%"/>
 
 
 ![GameEngine](https://badgen.net/badge/GameEngine/ING|UE|Unity/cyan)
