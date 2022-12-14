@@ -60,7 +60,7 @@
 
 <a href="https://github.com/n-c0d3r/nide">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=n-c0d3r&repo=nide&theme=omni" />
-</a>
+</a> 
 
 ## GitHub Stats ##
 ![NCoder's GitHub stats](https://github-readme-stats.vercel.app/api?username=n-c0d3r&show_icons=true&theme=apprentice)
