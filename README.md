@@ -28,39 +28,9 @@
 <br/>
 <br/>
 
-<a href="https://github.com/n-c0d3r/RAL">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=n-c0d3r&repo=RAL&theme=panda" />
-</a>
-
-<br/>
-<br/>
-
 <a href="https://github.com/n-c0d3r/BRDF">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=n-c0d3r&repo=BRDF&theme=omni" />
 </a> 
-
-<br/>
-
-<br/>
-
-<a href="https://github.com/n-c0d3r/WAL">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=n-c0d3r&repo=WAL&theme=gotham" />
-</a>
-
-<br/>
-
-<br/>
-
-<a href="https://github.com/n-c0d3r/NJobSystem">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=n-c0d3r&repo=NJobSystem&theme=panda" />
-</a>
-
-<br/>
-<br/>
-
-<a href="https://github.com/n-c0d3r/UL">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=n-c0d3r&repo=UL&theme=gotham" />
-</a>
 
 <br/>
 
