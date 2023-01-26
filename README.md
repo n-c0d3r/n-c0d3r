@@ -28,8 +28,8 @@
 <br/>
 <br/>
 
-<a href="https://github.com/n-c0d3r/BRDF">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=n-c0d3r&repo=BRDF&theme=omni" />
+<a href="https://github.com/n-c0d3r/NCPP">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=n-c0d3r&repo=NCPP&theme=omni" />
 </a> 
 
 <br/>
