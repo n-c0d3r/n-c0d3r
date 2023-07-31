@@ -43,6 +43,13 @@
 <br/>
 <br/>
 
+<a href="https://github.com/n-c0d3r/n0d3s">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=n-c0d3r&repo=n0d3s&theme=github_dark" />
+</a>
+
+<br/>
+<br/>
+
 <a href="https://github.com/n-c0d3r/nide">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=n-c0d3r&repo=nide&theme=omni" />
 </a> 
