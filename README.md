@@ -12,6 +12,7 @@
 + **I'm a game engine programmer.**
 + Email: ncoderft3t@outlook.com
 + Website: https://n-c0d3r.github.io
++ Youtube: https://www.youtube.com/@n-c0d3r
 
 ## Knowledge ##
 + Game Engine Programming
