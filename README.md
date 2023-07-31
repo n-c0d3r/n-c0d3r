@@ -20,7 +20,7 @@
 + Math: Calculus, Linear Algebra,...
 + Web Programming
 
-## Projects ##
+## Best Public Repositories ##
 <a href="https://github.com/INGTechnologies/ING">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=INGTechnologies&repo=ING&theme=github_dark" />
 </a>
