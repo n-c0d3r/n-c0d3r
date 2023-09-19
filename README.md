@@ -49,5 +49,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=n-c0d3r&repo=nide&theme=omni" />
 </a> 
 
+## Another Projects ##
+- *NCPP* (currently private for my own team's researches)
+
 ## GitHub Stats ##
 ![NCoder's GitHub stats](https://github-readme-stats.vercel.app/api?username=n-c0d3r&show_icons=true&theme=apprentice)
