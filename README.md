@@ -50,7 +50,7 @@
 </a> 
 
 ## Another Projects ##
-- *NCPP* (currently private for my own team's researches)
+- **NCPP**: A game engine learning aimed C++ library. # (currently private for my own team's researches)
 
 ## GitHub Stats ##
 ![NCoder's GitHub stats](https://github-readme-stats.vercel.app/api?username=n-c0d3r&show_icons=true&theme=apprentice)
