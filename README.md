@@ -31,14 +31,6 @@
 <br/>
 <br/>
 
-<a href="https://github.com/n-c0d3r/NCPP">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=n-c0d3r&repo=NCPP&theme=omni" />
-</a> 
-
-<br/>
-
-<br/>
-
 <a href="https://github.com/N1ghtTeam/NFramework">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=N1ghtTeam&repo=NFramework&theme=codeSTACKr" />
 </a>
