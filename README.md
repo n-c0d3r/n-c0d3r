@@ -5,10 +5,7 @@
 ![IDE](https://badgen.net/badge/OS/Windows|MacOS|Ubuntu/red)
 
 + **I'm a game engine programmer.**
-+ Email: ncoderft3t@outlook.com
-+ Website: https://n-c0d3r.github.io
-+ Youtube: https://www.youtube.com/@n-c0d3r
-+ Facebook: https://www.facebook.com/tao.sang.543
++ Email: ncoderft3t@outlook.com   Website: https://n-c0d3r.github.io   Youtube: https://www.youtube.com/@n-c0d3r   Facebook: https://www.facebook.com/tao.sang.543
 
 ## Knowledge ##
 + Game Engine Programming
