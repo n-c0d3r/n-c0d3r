@@ -1,6 +1,3 @@
-<img src="https://i.ibb.co/ZWBsDPQ/BG4-wide-0-25x.png" border="0" width="100%"/>
-
-
 ![GameEngine](https://badgen.net/badge/GameEngine/UnrealEngine|Unity|Godot|ING/cyan)
 ![IDE](https://badgen.net/badge/IDE/VS2022|Xcode/green)
 ![IDE](https://badgen.net/badge/TextEditor/VSCode/green)
@@ -8,7 +5,6 @@
 ![IDE](https://badgen.net/badge/OS/Windows|MacOS|Ubuntu/red)
 ![Profile View Counter](https://komarev.com/ghpvc/?username=n-c0d3r&color=red) 
 
-## Basic Info ##
 + **I'm a game engine programmer.**
 + Email: ncoderft3t@outlook.com
 + Website: https://n-c0d3r.github.io
