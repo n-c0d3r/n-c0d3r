@@ -27,7 +27,6 @@
 <a href="https://github.com/INGTechnologies/ING">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=INGTechnologies&repo=ING&title_color=61dafb&icon_color=61dafb&text_color=ffffff&bg_color=20232a&border_color=0c1a25&show_icons=true" />
 </a>
-</vr>
 <a href="https://github.com/N1ghtTeam/NFramework">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=N1ghtTeam&repo=NFramework&title_color=61dafb&icon_color=61dafb&text_color=ffffff&bg_color=20232a&border_color=0c1a25&show_icons=true" />
 </a>
@@ -38,7 +37,6 @@
 <a href="https://github.com/n-c0d3r/n0d3s">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=n-c0d3r&repo=n0d3s&title_color=61dafb&icon_color=61dafb&text_color=ffffff&bg_color=20232a&border_color=0c1a25&show_icons=true" />
 </a>
-
 <a href="https://github.com/n-c0d3r/nide">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=n-c0d3r&repo=nide&title_color=61dafb&icon_color=61dafb&text_color=ffffff&bg_color=20232a&border_color=0c1a25&show_icons=true" />
 </a> 
