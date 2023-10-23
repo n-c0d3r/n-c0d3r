@@ -1,10 +1,10 @@
+**I'm a hobbyist game engine programmer.**
+  
 ![GameEngine](https://badgen.net/badge/GameEngine/UnrealEngine|Unity|Godot|ING/cyan)
 ![IDE](https://badgen.net/badge/IDE/VS2022|Xcode/green)
 ![IDE](https://badgen.net/badge/TextEditor/VSCode/green)
 ![CPP](https://badgen.net/badge/CPP/17%2C%2020/yellow)
 ![IDE](https://badgen.net/badge/OS/Windows|MacOS|Ubuntu/red)
-
-+ **I'm a hobbyist game engine programmer.**
 
 ## Knowledge ##
 + Game Engine Programming
