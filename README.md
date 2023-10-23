@@ -53,4 +53,4 @@
 - **NCPP**: A game engine learning aimed C++ library (currently private and only used for my own team's researches).
 
 ## GitHub Stats ##
-![NCoder's GitHub stats](https://github-readme-stats.vercel.app/api?username=n-c0d3r&show_icons=true&theme=apprentice)
+![NCoder's GitHub stats](https://github-readme-stats.vercel.app/api?username=n-c0d3r&show_icons=true&title_color=61dafb&icon_color=61dafb&text_color=ffffff&bg_color=20232a&border_color=0c1a25&show_icons=true")
