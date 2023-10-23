@@ -3,7 +3,6 @@
 ![IDE](https://badgen.net/badge/TextEditor/VSCode/green)
 ![CPP](https://badgen.net/badge/CPP/17%2C%2020/yellow)
 ![IDE](https://badgen.net/badge/OS/Windows|MacOS|Ubuntu/red)
-![Profile View Counter](https://komarev.com/ghpvc/?username=n-c0d3r&color=red) 
 
 + **I'm a game engine programmer.**
 + Email: ncoderft3t@outlook.com
