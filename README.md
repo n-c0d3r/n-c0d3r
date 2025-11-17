@@ -7,11 +7,11 @@
 ![IDE](https://badgen.net/badge/OS/Windows|MacOS|Ubuntu/red)
 
 ## Best Public Repositories ##
-<a href="https://github.com/n-c0d3r/NCPP">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=n-c0d3r&repo=NCPP&title_color=61dafb&icon_color=61dafb&text_color=ffffff&bg_color=20232a&border_color=0c1a25&show_icons=true" />
-</a> 
 <a href="https://github.com/n-c0d3r/NRE">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=n-c0d3r&repo=NRE&title_color=61dafb&icon_color=61dafb&text_color=ffffff&bg_color=20232a&border_color=0c1a25&show_icons=true" />
+</a>
+<a href="https://github.com/n-c0d3r/NCPP">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=n-c0d3r&repo=NCPP&title_color=61dafb&icon_color=61dafb&text_color=ffffff&bg_color=20232a&border_color=0c1a25&show_icons=true" />
 </a>
  
 <br/>
